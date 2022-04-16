@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# By: Lucas "K4L1" Nathaniel
+# By: Kali "K4L1" Nathalie
 # $ python server.py port
 
 import subprocess
